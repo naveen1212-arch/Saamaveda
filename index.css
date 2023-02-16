@@ -3,6 +3,8 @@
 /* Padding below the footer and lighter body text */
 
 body {
+  padding: 0;
+  margin: 0;
    
   }
   .dropdown:hover .dropdown-menu {
